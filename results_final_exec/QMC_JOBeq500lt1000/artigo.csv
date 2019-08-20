@@ -1,0 +1,15 @@
+ID,Length,PDB files,CATH CLASSIFICATION,SCOP CLASSIFICATION,Own protein function,BLAST HIT (not identical),Target protein Function,Target Length,Identity,e-value,position in BLAST file,
+CIMA_1a4sA,503,1a4sA.pdb,Alpha Beta,Alpha and beta proteins (a/b),BETAINE ALDEHYDE DEHYDROGENASE,4qn2_H,Betaine aldehyde dehydrogenase,517,179/475 (37%),e-107,476,
+1a6cA,513,1a6cA.pdb,Mainly Beta,All beta proteins,"TOBACCO RINGSPOT VIRUS CAPSID
+           PROTEIN",5foj_B,GRAPEVINE FANLEAF VIRUS,504,129/506 (25%),4.00E-46,2,
+CIMA_1a8i_,812,1a8i_.pdb,Alpha Beta,Alpha and beta proteins (a/b),GLYCOGEN PHOSPHORYLASE B,5lrb_B,"Alpha-1,4 glucan phosphorylase",938,186/404 (46%), e-108,311,
+CIMA_1aco_,753,1aco_.pdb,Alpha Beta,Alpha and beta proteins (a/b),ACONITASE,2b3y_B,"Iron-responsive element binding protein 1
+ ",888,224/823 (27%),1.00E-56,16,Tem opção de template com 99% de identidade. Mas será que vale a pena pegar ele? O problema é que de 99 já vai para esse de 27 que eu escolhi
+CIMA_1aozA,552,1aozA.pdb,Mainly Beta,All beta proteins,ASCORBATE OXIDASE,5ehf_A,Laccase,497,157/507 (30%),8.00E-53,9,
+BAIXO_1a4sA,503,1a4sA.pdb,Alpha Beta,Alpha and beta proteins (a/b),BETAINE ALDEHYDE DEHYDROGENASE,4caz_B,BETAINE ALDEHYDE DEHYDROGENASE,490,246/484 (50%),e-170,9,
+BAIXO_1a6cA,513,1a6cA.pdb,Mainly Beta,All beta proteins,"TOBACCO RINGSPOT VIRUS CAPSID
+           PROTEIN",-,-,-,-,-,-,Não tem. O maior já é 25%. O unico outro resultado é a propria proteina.
+BAIXO_1a8i_,812,1a8i_.pdb,Alpha Beta,Alpha and beta proteins (a/b),GLYCOGEN PHOSPHORYLASE B,9gpb_D,GLYCOGEN PHOSPHORYLASE B,842,812/829 (97%),0.0,1,"Muitas opções, não sei se esse é o melhor template para escolher
+"
+BAIXO_1aco_,753,1aco_.pdb,Alpha Beta,Alpha and beta proteins (a/b),ACONITASE,1nit_A,ACONITASE,754,752/753 (99%),0.0,6,
+BAIXO_1aozA,552,1aozA.pdb,Mainly Beta,All beta proteins,ASCORBATE OXIDASE,1asq_B,ASCORBATE OXIDASE,552,552/552 (100%),0.0,1,identidade 100%

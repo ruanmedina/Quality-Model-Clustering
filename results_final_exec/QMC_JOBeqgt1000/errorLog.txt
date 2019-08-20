@@ -1,0 +1,3 @@
+Protein 1yq2 is already processed, I will not download its template file (2w54_H)
+Protein 6abu is already processed, I will not download its template file (3b9j_K)
+Protein 6ji0 is already processed, I will not download its template file (5j8v_D)

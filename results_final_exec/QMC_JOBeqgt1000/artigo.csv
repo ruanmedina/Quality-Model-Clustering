@@ -1,0 +1,21 @@
+ID,Length,PDB files,CATH CLASSIFICATION,SCOP CLASSIFICATION,Own protein function,BLAST HIT (not identical),Target protein Function,Target Length,Identity,e-value,position in BLAST file,
+DECIMA_1f4h,1021,https://files.rcsb.org/download/1F4H.pdb,"Mainly Beta
+
+Alpha Beta",All beta proteins,E. COLI (LACZ) BETA-GALACTOSIDASE (ORTHORHOMBIC),3bga_B,Beta-galactosidase,1010,340/1012 (33%),e-166,289,
+1yq2,1024,https://files.rcsb.org/download/1YQ2.pdb,"Mainly Beta
+
+Alpha Beta","All beta proteins
+
+Alpha and beta proteins (a/b)",beta-galactosidase from Arthrobacter sp. C2-2 (isoenzyme C2-2-1),6etz_A,Beta-galactosidase,989,471/1038 (45%),0.0,7,
+DECIMA_6abu,1331,https://files.rcsb.org/download/6ABU.pdb,,,"Rat Xanthine oxidoreductase, NAD bound form",2w54_H,XANTHINE DEHYDROGENASE,777,324/774 (41%),e-166,99,
+DECIMA_6ji0,4968,https://files.rcsb.org/download/1F4H.pdb,,,Structure of RyR2 (F/A/C/Ca2+ dataset),5j8v_D,Ryanodine receptor 1,5037,849/1287 (65%)   559/1019 (54%)  444/610 (72%)      361/496 (72%)    242/437 (55%)      150/407 (36%)             69/241 (28%)               57/204 (27%)             33/119 (27%),0.0,13,Blocos multiplos de alinhamento. Não sei se está certo. Outra dúvida é se podemos usar esses modelos com e-value 0.0. A alternativa seria pegar sempre o que não é tão pequeno a ponto de não poder ser presentado. Mas as identidades iam descer bastante.
+DEBAIXO_1f4h,1021,https://files.rcsb.org/download/1F4H.pdb,"Mainly Beta
+
+Alpha Beta",All beta proteins,E. COLI (LACZ) BETA-GALACTOSIDASE (ORTHORHOMBIC),3iap_D,Beta-galactosidase,1023,1014/1015 (99%),0.0,129,
+de1YQ2,1024,https://files.rcsb.org/download/1YQ2.pdb,"Mainly Beta
+
+Alpha Beta","All beta proteins
+
+Alpha and beta proteins (a/b)",beta-galactosidase from Arthrobacter sp. C2-2 (isoenzyme C2-2-1),-,-,-,-,-,-,Não tem. Se não for o molde de 45 só ela mesma
+DEBAIXO_6abu,1331,https://files.rcsb.org/download/6ABU.pdb,,,"Rat Xanthine oxidoreductase, NAD bound form",3b9j_K,xanthine oxidase,763,661/763 (86%),0.0,46,
+DEBAIXO_6ji0,4968,https://files.rcsb.org/download/1F4H.pdb,,,Structure of RyR2 (F/A/C/Ca2+ dataset),5l1d_G,Ryanodine Receptor,4387,1183/1332 (88%)                     780/1022 (76%)                         557/595 (93%)                          424/495 (85%)                       184/206 (89%)                       69/232 (29%)                   60/201 (29%)                      37/129 (28%)                        23/90 (25%), 0.0,9,ATUALIZADO --- Blocos multiplos de alinhamento. Não sei se está certo. Outra dúvida é se podemos usar esses modelos com e-value 0.0. A alternativa seria pegar sempre o que não é tão pequeno a ponto de não poder ser presentado. Mas as identidades iam descer bastante.

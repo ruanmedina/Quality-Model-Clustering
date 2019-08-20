@@ -1,0 +1,22 @@
+
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    -               LNCC/MCT - PETROPOLIS/RJ/BRAZIL            -
+    -              UFJF/MCT - JUIZ DE FORA/MG/BRAZIL           -
+    -                 MHOLline execution summary               -
+    -                                                          -
+    - This file contains informations about the overall        -
+    - results of MHOLline execution.                           -
+    -                                                          -
+    - The information is arranged by sections, being each      -
+    - section a module which were executed.                    -
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+####### BLAST #######
+
+Number of entry sequences      : 76
+Number of aligned sequences    : 76
+Number of not aligned sequences: 0
+PDB file used                  : pdb_seqres.txt
+Size of PDB file used          : 447,943 sequences; 111,970,188 total letters
+

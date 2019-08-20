@@ -1,0 +1,26 @@
+Error while processing protein 1a02N against 1nfa template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter. Method: PPBuilder (CA-CA)
+Error while processing protein 1a0tP against 1oh2 template. Trying to download pdb file.
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter in pdb. Method: cif-seqres
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter in pdb. Method: PPBuilder (C-N)
+Error while processing protein 1a0tP against 1oh2 template. Trying alternative another sequence getter in pdb. Method: PPBuilder (CA-CA)
+Error while processing protein 1a0tP against 1oh2 template. I give up let's skip this thing...
+Error while processing protein 1a3qA against 2i9t template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1ad3A against 4l2o template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1aln_ against 4eg2 template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1aln_ against 4eg2 template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1aln_ against 4eg2 template. Problems in processing structure from file. Skipping
+Error while processing protein 1amk_ against 5cg7 template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1amk_ against 5cg7 template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1amk_ against 5cg7 template. Problems in processing structure from file. Skipping
+Error while processing protein 1apmE against 2uw5 template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1apmE against 2uw5 template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1apmE against 2uw5 template. Problems in processing structure from file. Skipping
+Error while processing protein 1auk_ against 1e1z template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1auk_ against 1e1z template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1auk_ against 1e1z template. Problems in processing structure from file. Skipping
+Error while processing protein 1ax4A against 5d8g template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1ax4A against 5d8g template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1ax4A against 5d8g template. Problems in processing structure from file. Skipping

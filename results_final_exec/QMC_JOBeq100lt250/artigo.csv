@@ -1,0 +1,87 @@
+ID,Length,PDB files,CATH CLASSIFICATION,SCOP CLASSIFICATION,Own protein function,BLAST HIT (not identical),Target protein Function,Target Length,Identity,e-value,position in BLAST file,
+153l_,185,153l_.pdb,Mainly Alpha,Alpha and beta proteins (a+b),GOOSE LYSOZYME,3wyh_B,Lysozyme g,185,151/185 (81%),e-112,5,
+1a17_,159,1a17_.pdb,Mainly Alpha,All alpha proteins,SERINE/THREONINE PROTEIN PHOSPHATASE 5,5jjt_B,Serine/threonine-protein phosphatase,479,72/154 (46%),0,9,
+1a1x_,106,1a1x_.pdb,Mainly Beta,All beta proteins,HMTCP-1,1jnp_B,T-CELL LEUKEMIA/LYMPHOMA PROTEIN 1A,116,40/100 (40%),0,4,
+1a2pA,108,1a2pA.pdb,Alpha Beta,Alpha and beta proteins (a+b),,1buj_A,PROTEIN (BINASE),109,91/108 (84%),0,131,
+1a2zA,220,1a2zA.pdb,Alpha Beta,Alpha and beta proteins (a/b),PYRROLIDONE CARBOXYL PEPTIDASE,1iu8_A ,Pyrrolidone-carboxylate peptidase,206,117/211 (55%),0,5,
+1a3aA,145,1a3aA.pdb,Alpha Beta,Alpha and beta proteins (a+b),MANNITOL-SPECIFIC EII,1a6j_B,NITROGEN REGULATORY IIA PROTEIN,163,33/129 (25%),9.00E-06,7,
+1a3c_,166,1a3c_.pdb,Alpha Beta,Alpha and beta proteins (a/b),PYRIMIDINE OPERON REGULATORY PROTEIN PYRR,4p80_B,Ancestral PyrR protein (Green),180,156/176 (88%),e-102,9,
+1a3k_,137,1a3k_.pdb,Mainly Beta,All beta proteins,GALECTIN-3,4wvw_A,Galectin,144,58/140 (41%),2.00E-30,53,
+1a44_,185,1a44_.pdb,Alpha Beta,All beta proteins,PHOSPHATIDYLETHANOLAMINE-BINDING PROTEIN,6ens_A,Phosphatidylethanolamine-binding protein 1,193,159/184 (86%),e-116,10,
+1a53_,247,1a53_.pdb,Alpha Beta,Alpha and beta proteins (a/b),INDOLE-3-GLYCEROLPHOSPHATE SYNTHASE,4a29_A,ENGINEERED RETRO-ALDOL ENZYME RA95.0,258,231/246 (93%),e-160,17,
+1a6f_,113,1a6f_.pdb,Alpha Beta,Alpha and beta proteins (a+b),RIBONUCLEASE P PROTEIN,1d6t_A,RIBONUCLEASE P,117,55/110 (50%),5.00E-33,3,
+1a6jA,150,1a6jA.pdb,Alpha Beta,Alpha and beta proteins (a+b),NITROGEN REGULATORY IIA PROTEIN,2a0j_A,PTS IIA-like nitrogen-regulatory protein ,149,55/129 (42%),3.00E-27,3,
+1a6m_,151,1a6m_.pdb,Mainly Alpha,All alpha proteins,MYOGLOBIN,3ogb_A,Myoglobin,154,149/151 (98%),e-102,238,
+1a73A,162,1a73A.pdb,Alpha Beta,Alpha and beta proteins (a+b),INTRON 3 (I-PPO) ENCODED ENDONUCLEASE,1evw_D,I-PPOI HOMING ENDONUCLEASE,163,161/162 (99%),e-116,11,
+1a79A,171,1a79A.pdb,Alpha Beta,Alpha and beta proteins (a/b),TRNA ENDONUCLEASE,2cv8_A,tRNA-splicing endonuclease,180,64/154 (41%),1.00E-25,7,
+1a7vA,125,1a7vA.pdb,Mainly Alpha,All alpha proteins,CYTOCHROME C',1s05_A,Cytochrome c-556,129,47/129 (36%,9.00E-18,5,
+1a8l_,226,1a8l_.pdb,Alpha Beta,Alpha and beta proteins (a/b),PROTEIN DISULFIDE OXIDOREDUCTASE,1j08_H,glutaredoxin-like protein,226,200/226 (88%),e-151,2,
+1a9nA,162,1a9nA.pdb,Alpha Beta,Alpha and beta proteins (a/b),U2A',3jb9_j,U2 small nuclear ribonucleoprotein A',239,77/161 (47%),9.00E-49,7,
+1aa7A,158,1aa7A.pdb,Mainly Alpha,All alpha proteins,INFLUENZA VIRUS MATRIX PROTEIN,5v7s_C,Matrix protein 1,171,152/157 (96%),e-109,9,
+1aac_,105,1aac_.pdb,Mainly Beta,All beta proteins,AMICYANIN,1id2_C,AMICYANIN,106,66/105 (62%),2.00E-37,65,
+1abv_,105,1abv_.pdb,Mainly Alpha,All alpha proteins,DELTA SUBUNIT OF THE F1F0-ATP SYNTHASE,5lqz_U,ATP synthase OSCP subunit,194,26/89 (29%),2.00E-03,6,
+1ac6A,110,1ac6A.pdb,Mainly Beta,All beta proteins,T-CELL RECEPTOR ALPHA,2z35_A,T-cell receptor alpha-chain,112,106/112 (94%),1.00E-71,3,
+1acf_,125,1acf_.pdb,Alpha Beta,Alpha and beta proteins (a+b),PROFILIN I,3dav_B,Profilin,127,60/126 (47%),2.00E-32,8,
+1acz_,108,1acz_.pdb,Mainly Beta,All beta proteins,GLUCOAMYLASE,2vn7_A,GLUCOAMYLASE,599,49/108 (45%),2.00E-25,11,
+1ad2_,224,1ad2_.pdb,Alpha Beta,Multi-domain proteins (alpha and beta),RIBOSOMAL PROTEIN L1,5j8b_C,50S ribosomal protein L1,228,223/224 (99%),e-160,34,
+1ae9A,171,1ae9A.pdb,Mainly Alpha,Alpha and beta proteins (a+b),LAMBDA INTEGRASE,1z1b_B,Integrase,356,170/179 (94%),e-119,12,
+1agi_,125,1agi_.pdb,Alpha Beta,Alpha and beta proteins (a+b),ANGIOGENIN,2bwk_A,ANGIOGENIN,121,83/121 (68%),2.00E-55,3,
+1agjA,242,1agjA.pdb,Mainly Beta,All beta proteins,EPIDERMOLYTIC TOXIN A,1dt2_A,EXFOLIATIVE TOXIN B,245,103/217 (47%),1.00E-57,7,
+1agrE,128,1agrE.pdb,Mainly Alpha,All alpha proteins,RGS4,2ode_D,Regulator of G-protein signaling 8,141,72/127 (56%),2.00E-51,5,
+1ahsA,126,1ahsA.pdb,Mainly Beta,All beta proteins,AFRICAN HORSE SICKNESS VIRUS (SEROTYPE 4) VP7,1bvp_6,BLUETONGUE VIRUS COAT PROTEIN VP7,349,40/127 (31%),2.00E-13,4,
+1aihA,170,1aihA.pdb,Mainly Alpha,Alpha and beta proteins (a+b),HP1 INTEGRASE,5dor_D,Integrase,176,77/163 (47%),7.00E-44,5,Só para lembrar que essa foi a última! hahaha
+1aisA,181,1aisA.pdb,Alpha Beta,Alpha and beta proteins (a+b),PROTEIN (TATA-BINDING PROTEIN),2z8u_Q,TATA-box-binding protein,188,82/168 (48%),2.00E-52,5,
+1aisB,193,1aisB.pdb,Mainly Alpha,All alpha proteins,"PROTEIN (TRANSCRIPTION INITIATION
+           FACTOR IIB)",1vol_A,"PROTEIN (TRANSCRIPTION FACTOR IIB
+           (TFIIB))",204,61/176 (34%),2.00E-33,3,
+1ak4C,145,1ak4C.pdb,Mainly Alpha,All alpha proteins,HIV-1 CAPSID,2pwo_D,Gag-Pol polyprotein (Pr160Gag-Pol),146,144/145 (99%),e-102,221,Todas são 100 ou 99 %
+1ak7_,174,1ak7_.pdb,Alpha Beta,Alpha and beta proteins (a+b),DESTRIN,4bex_1,COFILIN-1,181,118/165 (71%),1.00E-80,3,
+1akjD,114,1akjD.pdb,Mainly Beta,All beta proteins,T-CELL CORECEPTOR CD8,2q3a_B,CD8,120,108/114 (94%),2.00E-75,10,
+1akp_,114,1akp_.pdb,Mainly Beta,All beta proteins,APOKEDARCIDIN,1j48_B,Apoprotein of C1027,110,48/112 (42%),1.00E-13,2,
+1al01,143,1al01.pdb,Mainly Alpha,All alpha proteins,SCAFFOLDING PROTEIN GPD,1tx9_A,Scaffolding protein D,151,143/143 (100%),e-101,14,Todas tem 100% de identidade
+1al3_,237,1al3_.pdb,Alpha Beta,Alpha and beta proteins (a/b),"CYS REGULON TRANSCRIPTIONAL
+           ACTIVATOR CYSB",4gwo_B,"HTH-type transcriptional regulator
+           CysB",330,222/237 (93%),e-166,2,
+1allA,160,1allA.pdb,Mainly Alpha,All alpha proteins,ALLOPHYCOCYANIN,1kn1_A,Allophycocyanin,160,136/160 (85%),2.00E-96,2,
+1alu_,157,1alu_.pdb,Mainly Alpha,All alpha proteins,INTERLEUKIN-6,4zs7_A,Interleukin-6,171,157/166 (94%),e-109,11,
+1alvA,173,1alvA.pdb,Mainly Alpha,All alpha proteins,CALPAIN,1np8_B,"Calcium-dependent protease, small
+           subunit",159,141/152 (92%),e-103,37,
+1aly_,146,1aly_.pdb,Mainly Beta,All beta proteins,CD40 LIGAND,3qbq_C," Tumor necrosis factor ligand
+           superfamily member 11",160,42/148 (28%),7.00E-09,14,
+1am2_,181,1am2_.pdb,Mainly Beta,All beta proteins,MXE GYRA INTEIN,4oz6_A,Mxe gyrA intein,202,174/198 (87%),e-119,2,
+1amf_,231,1amf_.pdb,Alpha Beta,Alpha and beta proteins (a/b),MOLYBDATE TRANSPORT PROTEIN MODA,3gzg_C,"Molybdate-binding periplasmic
+           protein; permease",253,120/232 (51%),8.00E-70,9,
+1amm_,174,1amm_.pdb,Mainly Beta,All beta proteins,GAMMA B-CRYSTALLIN ,2jdf_A,GAMMA CRYSTALLIN B,182,146/174 (83%),e-110,7,
+1amx_,150,1amx_.pdb,Mainly Beta,All beta proteins,COLLAGEN ADHESIN,2okm_A,Collagen adhesin,147,43/140 (30%),2.00E-10,7,
+1aoa_,247,1aoa_.pdb,Mainly Alpha,All alpha proteins,T-FIMBRIN ,1pxy_B,fimbrin-like protein,506,115/255 (45%),1.00E-68,2,
+1aoeA,192,1aoeA.pdb,Alpha Beta,Alpha and beta proteins (a/b),DIHYDROFOLATE REDUCTASE,4hog_B,Dihydrofolate Reductase,227,91/220 (41%),1.00E-45,35,
+1aohA,143,1aohA.pdb,Mainly Beta,All beta protei,CELLULOSOME-INTEGRATING PROTEIN CIPA,4fl4_L,"Cellulosome anchoring protein
+           cohesin region",321,105/141 (74%),3.00E-66,3,
+1aol_,228,1aol_.pdb,Alpha Beta,All beta proteins,GP70,1lcs_B,"FELINE LEUKEMIA VIRUS
+           RECEPTOR-BINDING DOMAIN",211,87/249 (34%),3.00E-27,2,
+1ap8_,213,1ap8_.pdb,Alpha Beta,Alpha and beta proteins (a+b),TRANSLATION INITIATION FACTOR EIF4E,5t48_A,"Eukaryotic translation initiation
+           factor 4E",184,72/167 (43%),2.00E-41,3,
+1aqb_,175,1aqb_.pdb,Mainly Beta,All beta proteins,RETINOL-BINDING PROTEIN,4psq_A,Retinol-binding protein 4,212,164/175 (93%),e-123,15,
+1aqcA,121,1aqcA.pdb,Mainly Beta,All beta proteins,X11,3sv1_C,"Amyloid beta A4 precursor
+           protein-binding family A member 2",190,113/166 (68%),5.00E-61,6,
+1aqe_,110,1aqe_.pdb,Alpha Beta,All alpha proteins,CYTOCHROME C3,2cy3_A,CYTOCHROME C3,118,39/113 (34%),4.00E-13,3,
+1aqzA,142,1aqzA.pdb,Alpha Beta,Alpha and beta proteins (a+b),RESTRICTOCIN,1de3_A,RIBONUCLEASE ALPHA-SARCIN,150,122/149 (81%),1.00E-86,9,
+1ash_,147,1ash_.pdb,Mainly Alpha,All alpha proteins,HEMOGLOBIN (OXY),2wth_B,GLOBIN-LIKE PROTEIN,159,59/139 (42%),3.00E-34,2,
+1ast_,200,1ast_.pdb,Alpha Beta,Alpha and beta proteins (a+b),ASTACIN,3lqb_A,LOC792177 protein,199,78/181 (43%),2.00E-40,10,
+1at0_,142,1at0_.pdb,Mainly Beta,All beta proteins,17-HEDGEHOG,2in8_A,Endonuclease PI-MtuI,139,30/96 (31%),11,2,
+1at3A,217,1at3A.pdb,Alpha Beta,All beta proteins,"HERPES SIMPLEX VIRUS TYPE II
+           PROTEASE",4v0t_B,UL26,244,134/225 (59%),2.00E-79,3,
+1atzA,184,1atzA.pdb,Alpha Beta,Alpha and beta proteins (a/b),VON WILLEBRAND FACTOR,3ppw_A,von Willebrand factor,196,45/173 (26%),1.00E-10,15,
+1au1A,166,1au1A.pdb,All alpha proteins,Mainly Alpha,INTERFERON-BETA,3wcy_I,Interferon beta,161,78/166 (46%),7.00E-37,3,
+1auiB,165,1auiB.pdb,Mainly Alpha,All alpha proteins,SERINE/THREONINE PHOSPHATASE 2B,5b8i_B,"Calcineurin subunit B, variant",171,100/157 (63%),4.00E-67,20,
+1auoA,218,1auoA.pdb,Alpha Beta,Alpha and beta proteins (a/b),CARBOXYLESTERASE,3cn9_B,Carboxylesterase,226,138/215 (64%),2.00E-90,5,
+1auyA,163,1auyA.pdb,Mainly Beta,All beta proteins,TURNIP YELLOW MOSAIC VIRUS,1ddl_C,DESMODIUM YELLOW MOTTLE VIRUS,188,69/158 (43%),8.00E-40,13,
+1auz_,116,1auz_.pdb,Alpha Beta,Alpha and beta proteins (a/b),SPOIIAA,1thn_D,Anti-sigma F factor antagonist,116,85/115 (73%),4.00E-55,3,
+1avaC,181,1avaC.pdb,Mainly Beta,All beta proteins,"BARLEY ALPHA-AMYLASE/SUBTILISIN
+           INHIBITOR",2qn4_B,Alpha-amylase/subtilisin inhibitor,200,111/183 (60%),2.00E-67,6,
+1avgI,142,1avgI.pdb,Mainly Beta,All beta proteins,TRIABIN,5hae_A,Lipocalin AI-4,156,36/127 (28%),2.00E-11,2,
+1avpA,204,1avpA.pdb,Alpha Beta,Alpha and beta proteins (a+b),ADENOVIRAL PROTEINASE,4wx7_C,Protease,204,156/203 (76%),e-121,7,
+1avqA,228,1avqA.pdb,Alpha Beta,Alpha and beta proteins (a/b),LAMBDA EXONUCLEASE ,3sz5_A,Exonuclease,216,60/205 (29%),2.00E-16,13,
+1awcB,153,1awcB.pdb,Alpha Horseshoe,Alpha and beta proteins (a+b),PROTEIN (GA BINDING PROTEIN BETA 1),2p2c_U,Caspase-2,169,107/154 (69%),6.00E-66,2,
+1ax8_,130,1ax8_.pdb,Mainly Alpha,All alpha proteins,OBESITY PROTEIN ,1ax8_A,OBESITY PROTEIN,146,130/144 (90%),4.00E-86,1,"Mesmo nome de cadeia, mas sequencia diferente."
+1axiB,191,1axiB.pdb,Mainly Alpha,All beta proteins,GROWTH HORMONE RECEPTOR,1hwh_B,GROWTH HORMONE BINDING PROTEIN,237,190/205 (92%),e-135,2,

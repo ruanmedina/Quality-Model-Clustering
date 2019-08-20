@@ -1,0 +1,39 @@
+ID,Length,PDB files,CATH CLASSIFICATION,SCOP CLASSIFICATION,Own protein function,BLAST HIT (not identical),Target protein Function,Target Length,Identity,e-value,position in BLAST file,
+1a0aA,63,1a0aA.pdb,Few Secondary Structures,All alpha proteins,PROTEIN (PHOSPHATE SYSTEM POSITIVE REGULATORY PROTEIN PHO4),5nj8_D,Aryl hydrocarbon receptor nuclear Translocator,267,17/63 (26%),7.00E-03,3,
+1a1iA,85,1a1iA.pdb,Alpha Beta,Small proteins,RADR ZIF268 ZINC FINGER PEPTIDE,1a1l_A,PROTEIN (ZIF268 ZINC FINGER PEPTIDE),90,83/85 (97%),8.00E-55,7,
+1a1w_,83,1a1w_.pdb,Mainly Alpha,All alpha proteins,FADD PROTEIN,1a1z_A,FADD PROTEIN,91,82/83 (98%),4.00E-49,3,
+1a32_,85,1a32_.pdb,Mainly Alpha,All alpha proteins,RIBOSOMAL PROTEIN S15,3j9w_AO,30S ribosomal protein uS15,89,68/85 (80%),7.00E-45,3,
+1a4pA,92,1a4pA.pdb,Mainly Alpha,All alpha proteins,Crystal Structure of Human Calcium-Bound S100A1,5k89_H,Protein S100-A1,94,43/88 (48%),5.00E-23,19,
+1a6s_,87,1a6s_.pdb,Mainly Alpha,All alpha proteins,GAG POLYPROTEIN,5kzb_A,virus matrix protein,104,86/86 (100%),2.00E-54,2,
+1a8o_,66,1a8o_.pdb,Mainly Alpha,All alpha proteins,HIV CAPSID,1baj_A,GAG POLYPROTEIN,101,66/69 (95%),3.00E-40,1,"Muitas opções , bem estranho , mas acho que ta certo"
+1adn_,92,1adn_.pdb,Alpha Beta,Small proteins,N-ADA 10,1wpk_A,ADA regulatory protein,146,89/92 (96%),3.00E-61,4,
+1adr_,76,1adr_.pdb,Mainly Alpha,All alpha proteins,P22 C2 REPRESSOR,1sq8_A,dh434,64,29/63 (46%),7.00E-07,10,
+1af8_,86,1af8_.pdb,Mainly Alpha,All alpha proteins,"ACTINORHODIN POLYKETIDE SYNTHASE
+          ACYL CARRIER PROTEIN",2mvv_A,"Actinorhodin polyketide synthase
+          acyl carrier protein",86,85/86 (98%),7.00E-52,3,
+1afj_,72,1afj_.pdb,Alpha Beta,Alpha and beta proteins (a+b),MERP,1osd_B,hypothetical protein MerP,72,64/72 (88%),7.00E-39,4,
+1afp_,51,1afp_.pdb,Mainly Beta,Small proteins,"ANTIFUNGAL PROTEIN FROM ASPERGILLUS
+          GIGANTEUS",2nb0_A,Antifungal protein,55,24/54 (44%),4.00E-04,2,
+1agg_,48,1agg_.pdb,Few Secondary Structures,Small proteins,OMEGA-AGATOXIN-IVB,2ndb_A,Omega-agatoxin-Aa4a,49,34/48 (70%),3.00E-18,4,
+1agqA,91,1agqA.pdb,Mainly Beta,Small proteins,"GLIAL CELL-DERIVED NEUROTROPHIC
+           FACTOR",4ux8_F,"GLIAL CELL LINE-DERIVED NEUROTROPHIC
+           FACTOR",134,86/97 (88%),5.00E-47,5,
+1aho_,64,1aho_.pdb,Alpha Beta,Small proteins,TOXIN II ,1seg_A,"AAH2: LQH-ALPHA-IT (FACE) CHIMERIC
+          TOXIN",64,55/64 (85%),2.00E-34,6,
+1ail_,70,1ail_.pdb,Mainly Alpha,All alpha proteins,NONSTRUCTURAL PROTEIN NS1,2n74_B,Non-structural protein 1,73,62/70 (88%),6.00E-40,4,
+1aiw_,62,1aiw_.pdb,Mainly Beta,All beta proteins,ENDOGLUCANASE Z,1aiw_A,ENDOGLUCANASE Z  ,62,62/62 (100%),6.00E-39,1,"MESMA PROTEINA, SÓ TINHA UM MOLDE PELO BLAST"
+1akhA,49,1akhA.pdb,Mainly Alpha,All alpha proteins,PROTEIN (MATING-TYPE PROTEIN A-1),1le8_A,MATING-TYPE PROTEIN A-1,53,48/49 (97%),5.00E-28,2,
+1am9A,80,1am9A.pdb,Few Secondary Structures,All alpha proteins,"PROTEIN (STEROL REGULATORY ELEMENT
+          BINDING PROTEIN 1A)",1ukl_F,"Sterol regulatory element binding
+          protein-2",61,42/60 (70%),3.00E-22,5,
+1aoy_,78,1aoy_.pdb,Mainly Alpha,All alpha proteins,ARGININE REPRESSOR,3v4g_A,Arginine repressor,180,64/77 (83%),8.00E-41,2,
+1apj_,74,1apj_.pdb,Alpha Beta,Small proteins,FIBRILLIN,1ksq_A,"LATENT TRANSFORMING GROWTH FACTOR
+          BETA BINDING PROTEIN 1",75,23/59 (38%),4.00E-06,2,
+1apq_,53,1apq_.pdb,Mainly Beta,Small proteins,COMPLEMENT PROTEASE C1R,6f1h_C,Complement C1r subcomponent,291,52/53 (98%),8.00E-31,2,
+1atb_,62,1atb_.pdb,Mainly Beta,Small proteins,ASCARIS TRYPSIN INHIBITOR,1eai_D,"PROTEIN (CHYMOTRYPSIN/ELASTASE
+          ISOINHIBITOR 1)",61,24/55 (43%),3.00E-06,5,
+1atx_,46,1atx_.pdb,Mainly Beta,Small proteins,ATX IA,1ahl_A,ANTHOPLEURIN-A,49,29/49 (59%),1.00E-13,2,
+1autL,97,1autL.pdb,Mainly Beta,Small proteins,ACTIVATED PROTEIN C,3f6u_L,"Vitamin K-dependent protein C light
+          chain",98,97/98 (98%),3.00E-63,2,
+1aw0_,72,1aw0_.pdb,Alpha Beta,Alpha and beta proteins (a+b),MENKES COPPER-TRANSPORTING ATPASE,2rop_A,Copper-transporting ATPase 2,202,40/66 (60%),8.00E-20,3,
+1awj_,77,1awj_.pdb,Mainly Beta,All beta proteins,ITK,2yuq_A,Tyrosine-protein kinase ITK/TSK,85,60/71 (84%),1.00E-36,6,

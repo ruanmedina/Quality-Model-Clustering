@@ -1,0 +1,44 @@
+Protein 1a0aA is already processed, I will not download its template file (5nj8_D)
+Protein 1a1iA is already processed, I will not download its template file (1a1l_A)
+Protein 1a1w_ is already processed, I will not download its template file (1a1z_A)
+Protein 1a32_ is already processed, I will not download its template file (3j9w_AO)
+Protein 1a4pA is already processed, I will not download its template file (5k89_H)
+Protein 1a6s_ is already processed, I will not download its template file (5kzb_A)
+Protein 1a8o_ is already processed, I will not download its template file (1baj_A)
+Protein 1adr_ is already processed, I will not download its template file (1sq8_A)
+Protein 1af8_ is already processed, I will not download its template file (2mvv_A)
+Protein 1afj_ is already processed, I will not download its template file (1osd_B)
+Protein 1afp_ is already processed, I will not download its template file (2nb0_A)
+Protein 1agg_ is already processed, I will not download its template file (2ndb_A)
+Protein 1agqA is already processed, I will not download its template file (4ux8_F)
+Protein 1aho_ is already processed, I will not download its template file (1seg_A)
+Protein 1ail_ is already processed, I will not download its template file (2n74_B)
+Protein 1akhA is already processed, I will not download its template file (1le8_A)
+Protein 1am9A is already processed, I will not download its template file (1ukl_F)
+Protein 1aoy_ is already processed, I will not download its template file (3v4g_A)
+Protein 1apj_ is already processed, I will not download its template file (1ksq_A)
+Protein 1atb_ is already processed, I will not download its template file (1eai_D)
+Protein 1atx_ is already processed, I will not download its template file (1ahl_A)
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter. Method: PPBuilder (CA-CA)
+Error while processing protein 1adn_ against 1wpk template. Trying to download pdb file.
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter in pdb. Method: cif-seqres
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter in pdb. Method: PPBuilder (C-N)
+Error while processing protein 1adn_ against 1wpk template. Trying alternative another sequence getter in pdb. Method: PPBuilder (CA-CA)
+Error while processing protein 1adn_ against 1wpk template. I give up let's skip this thing...
+Error while processing protein 1apq_ against 6f1h template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1apq_ against 6f1h template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1apq_ against 6f1h template. Problems in processing structure from file. Skipping
+Error while processing protein 1autL against 3f6u template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1autL against 3f6u template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1autL against 3f6u template. Problems in processing structure from file. Skipping
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter. Method: cif-seqres
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter. Method: PPBuilder (C-N)
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter. Method: PPBuilder (CA-CA)
+Error while processing protein 1aw0_ against 2rop template. Trying to download pdb file.
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter in pdb. Method: cif-seqres
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter in pdb. Method: PPBuilder (C-N)
+Error while processing protein 1aw0_ against 2rop template. Trying alternative another sequence getter in pdb. Method: PPBuilder (CA-CA)
+Error while processing protein 1aw0_ against 2rop template. I give up let's skip this thing...
+Error while processing protein 1awj_ against 2yuq template. Trying alternative another sequence getter. Method: cif-seqres

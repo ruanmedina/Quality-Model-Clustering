@@ -1,0 +1,2 @@
+Protein 1a4sA is experiencing problems on download.
+Protein 1a6cA is already processed, I will not download its template file (5foj_B)
